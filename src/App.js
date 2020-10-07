@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Challenger codes
+          Challenger codes Fatec
         </a>
       </header>
     </div>
